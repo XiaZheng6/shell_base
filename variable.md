@@ -1,6 +1,7 @@
 ## Shell变量
 * env
 * set
+* w
 ```
 xiazheng@xiazheng-Lenovo-3000-G430:~$ w
  21:03:44 up  2:39,  3 users,  load average: 0.09, 0.08, 0.11
