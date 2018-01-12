@@ -39,7 +39,8 @@ systemd─┬─AliYunDun───14*[{AliYunDun}]
         └─wrapper─┬─java───13*[{java}]
                   └─{wrapper}
 ```
-* PS1 PS2
+* PS1
+* PS2
 ```
 [root@iZ2zeb0d9lqofqcc2s88arZ ~]# echo $PS1
 [\u@\h \W]\$
