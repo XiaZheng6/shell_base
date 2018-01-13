@@ -1,7 +1,8 @@
 #!/bin/bash
 if [ ! -f /tmp/lala ]
 then
-echo "/tmp/lala not exist."
+	echo "/tmp/lala not exist."
+	exit
 fi
 n = `wc -l /tmp/lala`
 if [ -z "$n"]
