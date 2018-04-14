@@ -11,7 +11,7 @@ do
     fi
     if [ $n -ge 20 ]
     then
-        python /usr/bin/local/sbin/mail.py $ma    "$ip down"    "$ip is down"
+        python /usr/bin/local/sbin/mail.py $em    "$ip down"    "$ip is down"
     fi
 sleep 30
 done
