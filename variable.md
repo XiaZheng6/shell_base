@@ -1,4 +1,4 @@
-## Shell变量
+## Shell 变量
 * env
 * set
 * w
